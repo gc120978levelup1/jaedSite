@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0af1b02.css",
+    "main.js": "/static/js/main.7347352a.js",
+    "static/media/jaedsoftware.jpg": "/static/media/jaedsoftware.05554593addfc22a81c0.jpg",
+    "static/media/menengr.jpg": "/static/media/menengr.595d8094ae9ff6bcabb3.jpg",
+    "static/media/ladyengr.jpg": "/static/media/ladyengr.5d3eaf167c7fcbf5fae4.jpg",
+    "static/media/jaed-logo2.jpg": "/static/media/jaed-logo2.96b00412c7019b7289b9.jpg",
+    "static/media/ladyengrsurvey.jpg": "/static/media/ladyengrsurvey.79014bd32287e73ce0f8.jpg",
+    "static/media/smilingengr01.jpg": "/static/media/smilingengr01.4de5b96bed1c84f62cd8.jpg",
+    "index.html": "/index.html",
+    "main.d0af1b02.css.map": "/static/css/main.d0af1b02.css.map",
+    "main.7347352a.js.map": "/static/js/main.7347352a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0af1b02.css",
+    "static/js/main.7347352a.js"
+  ]
+}
