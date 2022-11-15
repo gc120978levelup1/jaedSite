@@ -1,0 +1,296 @@
+.row01{
+    width: 100%;
+
+    background: #D8F5E0;
+}
+
+.col01{
+    position: relative;
+    padding: 10px;
+    width: 30%;
+    background: #B0E3BF;
+}
+
+.SMILINEENG001{
+    margin-top: 20%;
+    margin-left: 20%;
+    width: 20rem;
+    height:10rem;
+    background: url(/src/assets/images/smilingengr01.jpg);
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 10px;
+    transform: rotate(-7deg);
+    background-size:110%;
+    background-repeat: no-repeat;
+}
+
+.JAEDSOFTWARE{
+    box-sizing: border-box;
+    margin-top: 20%;
+    margin-left: 20%;
+    width: 20rem;
+    height:10rem;
+    background: url(/src/assets/images/jaedsoftware.jpg);
+    background-size:110%;
+    background-repeat: no-repeat;
+    border: 1px solid #000000;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 5px;
+    transform: rotate(8deg);
+}
+
+.JAEDDIS{
+/* JAED DIS for the ECs, arms engineers with the best tools for : CAPEX Planning Engineering Analysis & Compliances */
+    margin-left: 1rem;
+    width: fit-content;
+    height:fit-content;
+
+    font-style: normal;
+
+    color: #04761D;
+    align-items: center;
+
+    text-shadow: 6px 6px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.row02{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(269.78deg, #526858 8.93%, rgba(18, 121, 40, 0.76) 94.48%);
+}
+
+.theyAreOurClient{
+    /* They are our client ECs ... */
+
+    margin-left: 30px;
+    width: 100%;
+    height: 31px;
+
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 200%;
+    line-height: 24px;
+
+    color: #DEF0E2;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: rotate(-3.73deg);
+}
+
+.row03{
+    position: relative;
+    width: 100%;
+    padding: 40px;
+    background: linear-gradient(269.78deg, #BDCCC1 8.93%, rgba(9, 155, 41, 0.76) 94.48%);
+    opacity: 0.8;
+}
+
+.Getaconsultation{
+    /* Get a consultation or book a demo */
+    width: 90%;
+    left: 40px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 250%;
+    line-height: 110%;
+
+    color: #022217;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: rotate(0.21deg);
+}
+
+.Askourmanager{
+    /* Ask our manager any question about our solution */
+    width: 100%;
+    left: 40px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 150%;
+    line-height: 110%;
+
+    color: #0d4d35;
+
+    transform: rotate(0.21deg);
+}
+
+.inputText{
+    padding: 20px;
+    width: 100%;
+    background: #D9D9D9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.buttonDiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.redButton{
+    width: 240px;
+    height: 52px;
+    color: white;
+    background: #B70000;
+    border-color: #3d0202;
+    border-width: 3px;
+    border-radius: 12px;
+}
+
+.redButton:hover {
+    transition-duration: 1s;
+    border-color: #831d1d;
+    background: #f04646;
+}
+
+.redButton:active {
+    transition-duration: 0.01s;
+    border-width: 4px;
+    transform: translateY(4px);
+}
+
+.blueButton{
+    width: 240px;
+    height: 52px;
+    color: white;
+    background: #2800b7;
+    border-color: #06023d;
+    border-width: 3px;
+    border-radius: 12px;
+}
+
+.blueButton:hover {
+    transition-duration: 1s;
+    border-color: #331d83;
+    background: #5746f0;
+}
+
+.blueButton:active {
+    transition-duration: 0.01s;
+    border-width: 4px;
+    transform: translateY(4px);
+}
+
+.greenButton{
+    width: 240px;
+    height: 52px;
+    color: white;
+    background: #00b737;
+    border-color: #023d16;
+    border-width: 3px;
+    border-radius: 12px;
+}
+
+.greenButton:hover {
+    transition-duration: 1s;
+    border-color: #1d8336;
+    background: #46f079;
+}
+
+.greenButton:active {
+    transition-duration: 0.01s;
+    border-width: 4px;
+    transform: translateY(4px);
+}
+
+.row04{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    padding: 40px;
+    background: #D8F5E0;
+}
+
+.col04{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 35%;
+    height: 100%;
+
+}
+
+.BysimplyusingJAEDDIS{
+    /* By simply using JAED DIS ... */
+    position: absolute;
+    width: auto;
+    height: 31px;
+    left: 40px;
+    top: 5%;
+    color: #0C4D1A;
+    font-size: xx-large;
+    font-weight: bold;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: rotate(-6deg);
+}
+
+.ladyengr{
+    /* 8451_540x480_carousel_what_we_do 1 */
+    box-sizing: border-box;
+    width: 211px;
+    height: 150px;
+
+    background: url(/src/assets/images/ladyengr.jpg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    border: 1px solid #096A07;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    transform: rotate(-5.98deg);
+}
+
+.ladyengrmob{
+    /* 8451_540x480_carousel_what_we_do 1 */
+    box-sizing: border-box;
+    width: 211px;
+    height: 200px;
+
+    background: url(/src/assets/images/ladyengrsurvey.jpg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    border: 1px solid #096A07;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    transform: rotate(6.98deg);
+
+}
+
+.menengr{
+    /* 8451_540x480_carousel_what_we_do 1 */
+    box-sizing: border-box;
+    width: 211px;
+    height: 150px;
+
+    background: url(/src/assets/images/menengr.jpg);
+    background-size:116%;
+    background-repeat: no-repeat;
+    border: 1px solid #096A07;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    transform: rotate(-5.98deg);
+}
+
+.row05{
+    position: relative;
+    padding: 40px;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(269.78deg, #526858 8.93%, rgba(18, 121, 40, 0.76) 94.48%);
+}
+
+.techSpecs{
+    margin: 10px;
+    display: flex;
+    justify-content:left;
+}
+
+.techSpecsDiv{
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
