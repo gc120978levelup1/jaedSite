@@ -20,11 +20,11 @@ const Mainpage = () => {
             </div>
         </div>
 
-        <div className='row02'>
+        <div className='row02 overflow-hidden'>
             <h1 className='theyAreOurClient'>They are our client ECs ...</h1>
         </div>
 
-        <div className='row04'>
+        <div className='row04 overflow-hidden'>
             <div className='col04'>
                 <br/><br/><br/><br/>
                 <div className='ladyengr'></div>
